@@ -1,0 +1,4 @@
+/* App-wide base styles; Tailwind and component styles handle the rest */
+#root {
+  min-height: 100vh;
+}
